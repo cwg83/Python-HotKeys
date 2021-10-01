@@ -1,2 +1,2 @@
 # Python-HotKeys
-A simple program to create HotKeys for longer text using Tkinter
+A simple program to create text-replace HotKeys using Python / Tkinter
